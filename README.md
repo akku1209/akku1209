@@ -20,7 +20,7 @@ QA Automation Engineer passionate about building scalable automation solutions a
 **Languages**
 - Python
 - Java
-- SQL
+- Playwright - Typescript
 
 **Test Automation**
 - Selenium
@@ -42,62 +42,8 @@ QA Automation Engineer passionate about building scalable automation solutions a
 - LambdaTest HyperExecute
 - VS Code
 - GitHub
-- Excel Reporting & Data Analysis
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 QA Automation Copilot
-An AI-powered assistant integrated with Azure DevOps to help investigate test failures and engineering workflows.
-
-**Capabilities:**
-- Fetch Azure DevOps work item details
-- Investigate pipeline executions
-- Analyse failed jobs and stages
-- Generate execution summaries and root-cause insights
-- Support conversational interactions within VS Code
-
-**Tech Used:** Python, FastAPI, Azure DevOps APIs, MCP, VS Code
-
----
-
-### 📱 Mobile Automation Framework
-Cross-platform automation framework designed for Android and iOS applications.
-
-**Highlights:**
-- Modular framework architecture
-- Appium-based implementation
-- Pytest and BDD support
-- Device/version-based execution strategies
-- Retry mechanisms for failed executions
-
-**Tech Used:** Python, Appium, Pytest, Pytest-BDD
-
----
-
-### 📊 HyperExecute Analytics Dashboard
-Custom reporting solution for LambdaTest executions.
-
-**Features:**
-- Automated execution summaries
-- Failure trend analysis
-- Filtering based on log patterns
-- Consolidated reporting for stakeholders
-
-**Tech Used:** Python, Azure Pipelines, LambdaTest APIs
-
----
-
-### 📈 CleverTap Validation Utility
-Utility developed to validate implementation events across multiple user journeys.
-
-**Capabilities:**
-- Event validation against expected schemas
-- Automated report generation
-- Support for multiple implementation flows
-
-**Tech Used:** Python, Data Analysis
+- Azure Devops
+- AWS
 
 ---
 
@@ -112,8 +58,8 @@ Utility developed to validate implementation events across multiple user journey
 
 ## 📫 Connect With Me
 
-- LinkedIn: <Add your LinkedIn URL>
-- Email: <Add your professional email>
+- LinkedIn: [<Add your LinkedIn URL>](https://in.linkedin.com/in/akanksha-thorat-24416216b)
+- Email: akanksha.thorat12@gmail.com
 
 ---
 
