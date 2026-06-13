@@ -58,7 +58,7 @@ QA Automation Engineer passionate about building scalable automation solutions a
 
 ## 📫 Connect With Me
 
-- LinkedIn: [<Add your LinkedIn URL>](https://in.linkedin.com/in/akanksha-thorat-24416216b)
+- LinkedIn: https://in.linkedin.com/in/akanksha-thorat-24416216b
 - Email: akanksha.thorat12@gmail.com
 
 ---
